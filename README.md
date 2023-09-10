@@ -21,10 +21,10 @@ Next.jsに関しては環境構築からプロジェクトに参画した経験�
 JavaScript | TypeScript | Python | PHP 
 
 ### フレームワーク等
-Next.js | Nuxt.js | React.js | Vue.js | jQuery | NestJS | node.js | GraphQL | Storybook
+Next.js | Nuxt.js | React.js | Vue.js | jQuery | NestJS | node.js | Laravel | GraphQL | Storybook
 
 ### AWS
-S3 | API Gateway | Lambda  | EC2 | ECS | IAM | Cognito | RDS(MySQL) | EventBridge | AWS Batch
+S3 | API Gateway | Lambda  | EC2 | ECS | IAM | RDS(MySQL) | EventBridge | AWS Batch
 
 ## 主な業務経歴
 ### 資金調達サポートサービスのフロントエンドのリプレイス(2023年 ~ 現在)
