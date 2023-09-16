@@ -31,7 +31,7 @@ S3 | API Gateway | Lambda  | EC2 | ECS | IAM | RDS(MySQL) | EventBridge | AWS Ba
 
 **【課題に対する取り組み】**
 
-Bladeテンプレートの一部をNext.jsに移行し、APIは引き続きLaravelで実装しました。
+Bladeテンプレートの全てNext.jsに移行し、APIは引き続きLaravelで実装しました。
 主に以下の4つの改善を行うことができました。
 
 1. パフォーマンス向上
