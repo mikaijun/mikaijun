@@ -1,3 +1,11 @@
+# 個人で作成・運用している水分管理webアプリ
+
+https://aquagent-frontend.vercel.app/
+
+
+- [バックエンド リポジトリ](https://github.com/mikaijun/aquagent-backend)
+- [フロントエンド リポジトリ](https://github.com/mikaijun/aquagent-frontend)
+
 # 業務経歴書
 ## 概要
 実装を主軸にしながらも、詳細設計やプロダクト設計の工程に参画してます。
