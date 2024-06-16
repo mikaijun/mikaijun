@@ -6,13 +6,11 @@ Next.jsに関しては環境構築からプロジェクトに参画した経験�
 サービスの確実性と実装工数の最適化に対する強い関心を持ち、チーム全体にその思考を浸透させることに積極的に取り組んでいます。
 
 ## スキル
-実業務で使用した技術だけを列挙しています。
-
 ### 言語
-JavaScript | TypeScript | Python | PHP 
+JavaScript | TypeScript | Python | PHP | Go
 
 ### フレームワーク等
-Next.js | Nuxt.js | React.js | Vue.js | jQuery | NestJS | node.js | Laravel | GraphQL | Storybook
+Next.js | Nuxt.js | React.js | Vue.js | jQuery | NestJS | node.js | Laravel | fastAPI | GraphQL | Storybook
 
 ### AWS
 S3 | API Gateway | Lambda  | EC2 | ECS | IAM | RDS(MySQL) | EventBridge | AWS Batch
